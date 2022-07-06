@@ -1,24 +1,39 @@
-This is free and unencumbered software released into the public domain.
+Half Life 1 SDK LICENSE
+======================
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+Half Life 1 SDK Copyright(c) Valve Corp.
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
+THIS DOCUMENT DESCRIBES A CONTRACT BETWEEN YOU AND VALVE CORPORATION ("Valve").
+PLEASE READ IT BEFORE DOWNLOADING OR USING THE HALF LIFE 1 SDK ("SDK"). BY
+DOWNLOADING AND/OR USING THE HALF LIFE 1 SDK YOU ACCEPT THIS LICENSE. IF YOU DO
+NOT AGREE TO THE TERMS OF THIS LICENSE PLEASE DON'T DOWNLOAD OR USE THE SDK.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+You may, free of charge, download and use the SDK to develop a modified Valve
+game running on the Half-Life 1 engine.  You may distribute your modified Valve
+game in source and object code form, but only for free. Terms of use for Valve
+games are found in the Steam Subscriber Agreement located here:
+http://store.steampowered.com/subscriber_agreement/
 
-For more information, please refer to <https://unlicense.org>
+You may copy, modify, and distribute the SDK and any modifications you make to
+the SDK in source and object code form, but only for free.  Any distribution of
+this SDK must include this LICENSE file.
+
+Any distribution of the SDK or a substantial portion of the SDK must include
+the above copyright notice and the following:
+
+    DISCLAIMER OF WARRANTIES.  THE HALF LIFE 1 SDK AND ANY OTHER MATERIAL
+    DOWNLOADED BY LICENSEE IS PROVIDED "AS IS".  VALVE AND ITS SUPPLIERS
+    DISCLAIM ALL WARRANTIES WITH RESPECT TO THE SDK, EITHER EXPRESS OR IMPLIED,
+    INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY,
+    NON-INFRINGEMENT, TITLE AND FITNESS FOR A PARTICULAR PURPOSE.
+
+    LIMITATION OF LIABILITY.  IN NO EVENT SHALL VALVE OR ITS SUPPLIERS BE LIABLE
+    FOR ANY SPECIAL, INCIDENTAL, INDIRECT, OR CONSEQUENTIAL DAMAGES WHATSOEVER
+    (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF BUSINESS PROFITS,
+    BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION, OR ANY OTHER PECUNIARY
+    LOSS) ARISING OUT OF THE USE OF OR INABILITY TO USE THE ENGINE AND/OR THE
+    SDK, EVEN IF VALVE HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+
+If you would like to use the SDK for a commercial purpose, please contact Valve
+at sourceengine@valvesoftware.com.
