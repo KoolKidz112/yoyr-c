@@ -1,0 +1,3 @@
+game "Yoyr C"
+gamedir "yoyr_c"
+gamedll "dlls\hl.dll"
