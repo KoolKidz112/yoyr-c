@@ -33,6 +33,7 @@ void CPenis::Precache() {
 	// Glock's models and sounds are already precached, so there is no need to redo it here
 	// UNLESS...
 	PRECACHE_MODEL("models/v_penis.mdl");
+	PRECACHE_SOUND("weapons/pl_flurp.wav");
 	// However it is still necessary to precache events...
 	m_usFirePenis = PRECACHE_EVENT(1, "events/penis.sc");
 	m_usFirePenisRocket = PRECACHE_EVENT(1, "events/penis2.sc");
@@ -185,7 +186,7 @@ BOOL CPenis::Deploy() {
 	return DefaultDeploy(
 		"models/v_penis.mdl", // GITHUB PLS DONT BAN ME
 		"models/p_9mmhandgun.mdl",
-		GLOCK_DRAW, // Since this uses the glock model we can just use its precious ENUMs...........
+		GLOCK_DRAW, // Since this uses the glock model animations we can just use its precious ENUMs...........
 		"onehanded",
 		UseDecrement(),
 		pev->body
